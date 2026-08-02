@@ -1,0 +1,5 @@
+/target
+fuzz/node_modules
+fuzz/package-lock.json
+fuzz/case_data.json
+fuzz/case_template.mustache
