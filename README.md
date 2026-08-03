@@ -3,13 +3,14 @@
 [![CI](https://github.com/gargee-508/Jugaad_Mustache/actions/workflows/ci.yml/badge.svg)](https://github.com/gargee-508/Jugaad_Mustache/actions/workflows/ci.yml)
 [![Tests](https://img.shields.io/badge/mustache%20spec-100%25-brightgreen)](tests/)
 [![unsafe](https://img.shields.io/badge/unsafe%20blocks-0-brightgreen)](src/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)](https://youtu.be/sOZluEz885s)
 [![Track F](https://img.shields.io/badge/Port%20Mortem%202026-Track%20F-orange)](https://portmortem.dev)
 
 > A complete port of `mustache.js` from JavaScript to Rust.
 > 100% spec compliance. Zero unsafe blocks. No Node.js required.
 > Built for [Port Mortem 2026](https://portmortem.dev), Track F.
 
-**[🌐 Live Verification Portal →](https://gargee-508.github.io/Jugaad_Mustache/)**
+**[🌐 Live Verification Portal →](https://gargee-508.github.io/Jugaad_Mustache/)** | **[📺 YouTube Video Demo →](https://youtu.be/sOZluEz885s)** | **[📖 Developer Journey Blog →](BLOG.md)**
 Try mustache templates live in your browser. Side-by-side JS vs Rust output. Real diffs.
 
 ---
